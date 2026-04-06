@@ -1,0 +1,28 @@
+============================================================
+  JSONL Dataset Merge Report
+  Generated: 2026-04-06 21:48:59
+============================================================
+
+INPUT FILES:
+  A  dataset_20260406_214037.jsonl
+  B  docstrings_dataset.jsonl
+
+RECORD COUNTS:
+  Dataset A          :   33,488
+  Dataset B          :   93,636
+  Combined (raw)     :  127,124
+
+DEDUPLICATION:
+  Exact duplicates   :   35,816
+  Conflicts resolved :      145  (same code, best doc kept)
+  Overlap rate       :    28.3%
+
+FINAL DATASET:
+  Records from A     :   33,486
+  Records from B     :   57,677
+  Total              :   91,163
+  Gain over larger   : +-2,473
+
+OUTPUT:
+  merged_20260406_214856.jsonl
+============================================================

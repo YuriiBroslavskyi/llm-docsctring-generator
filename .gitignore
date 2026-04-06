@@ -1,0 +1,16 @@
+target_repos/
+
+*.jsonl
+*.csv
+
+*.bin
+*.safetensors
+*.pt
+adapters/
+
+venv/
+.env
+
+__pycache__/
+*.pyc
+.DS_Store

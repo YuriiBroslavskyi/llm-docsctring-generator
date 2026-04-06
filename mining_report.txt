@@ -1,0 +1,31 @@
+============================================================
+  Google Style Docstring — Mining Report
+  Generated: 2026-04-06 21:41:20
+============================================================
+
+REPOSITORIES PROCESSED:
+  • target_repos/fastapi
+  • target_repos/pydantic
+  • target_repos/python-bigquery
+  • target_repos/google-cloud-python
+
+FILE STATISTICS:
+  Files scanned  :   35,548
+  Files failed   :        0
+
+FUNCTION STATISTICS:
+  Found          :  337,155
+  Accepted       :   33,488
+  Acceptance rate:     9.9%
+
+REJECTION BREAKDOWN:
+  No docstring   :  124,202
+  Incomplete doc :  109,538
+  Too short      :   51,482
+  Too long       :    5,529
+  Duplicate      :   12,916
+  Total rejected :  303,667
+
+OUTPUT:
+  Dataset file   : dataset_20260406_214037.jsonl
+============================================================
